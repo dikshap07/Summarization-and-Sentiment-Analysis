@@ -1,7 +1,7 @@
 
 
-# CSC522:  Automated Learning and Data Analysis
-## engr-ALDA-fall2021-P26
+# Automated Learning and Data Analysis
+
 ### SUMMARIZATION AND SENTIMENT ANALYSIS OF REVIEW
 Install Requirements:
 ```sh
